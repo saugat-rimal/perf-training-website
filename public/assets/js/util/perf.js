@@ -2,6 +2,23 @@
  * Custom Real User Monitoring Performance Agent
  * Demonstration for "Fundamentals of Web Performance"
  *
+ * 
+ 
+ This branch shows all the potential performance improvements we covered as part of the training. They include:
+
+Add performance monitoring agent
+Reducing server time to 50ms simulating CDN
+Defer loading of scripts and styles
+Preconnect to third party domains
+Preload key requests
+Optimize image contents
+Responsive image loading annotations
+Add JavaScript lazy loader to down-screen resources
+Positioning the privacy banner to not shift layout
+Specify image sizes to prevent layout shift
+
+
+
  * Not for production use.
  */
 (() => {
