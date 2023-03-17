@@ -1,7 +1,6 @@
 /**
  * Custom Real User Monitoring Performance Agent
  * Demonstration for "Fundamentals of Web Performance"
- * by Todd Gardner <todd@toddhgardner.com>
  *
  * Not for production use.
  */
